@@ -1,0 +1,15 @@
+python
+java
+html
+css
+javascript
+ruby
+c++
+php
+swift
+c#
+react.js
+sql
+network security
+siem tools
+git
